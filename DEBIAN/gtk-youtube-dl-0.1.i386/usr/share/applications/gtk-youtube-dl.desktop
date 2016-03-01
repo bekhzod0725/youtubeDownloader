@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.1
+Type=Application
+Name=GTK Youtube Downloader
+Comment=GTK Extension for youtube-dl built in C
+Icon=gtk-youtube-dl
+Exec=gtk-youtube-dl
+Terminal=false
+Categories=AudioVideo;Network;
+Keywords=Youtube;Download;Video;Audio;Server;

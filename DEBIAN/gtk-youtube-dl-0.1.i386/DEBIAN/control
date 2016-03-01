@@ -1,0 +1,8 @@
+Package: gtk-youtube-dl
+Priority: optional
+Section: devel
+Installed-Size: 440
+Architecture: i386
+Maintainer: Bekhzod Umarov
+Version: 0.1
+Description: GTK GUI Extension for youtube-dl built in C

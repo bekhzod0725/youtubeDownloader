@@ -1,0 +1,6 @@
+wget http://filename 2>&1 |
+sed -u 's/.*\ \([0-9]\+%\)\ \+\([0-9.]\+\ [KMB\/s]\+\)$/\1\n# Downloading \2/' |
+zenity --progress --title="Downloading File..."
+
+
+#sed -u 's/.*\]   \([0-9.%]*\).*A/\1/'
